@@ -1,6 +1,7 @@
 # Canary-in-the-Coal-Mine
 
 Download and read the epub from https://archive.org/details/CanaryInTheCoalMine_2019
+
 Buy the print-on-demand publication from https://www.blurb.co.uk/b/9486464-canary-in-the-coal-mine
 
 An open-sourced publication designed and compiled for an MA Book Design project in the Department of Typography and Graphic Communication at the University of Reading.
